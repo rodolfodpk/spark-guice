@@ -31,7 +31,7 @@ import com.google.inject.Guice;
 import com.google.inject.Injector;
 
 /**
- * The original SparkGuiceFilter has private properties so I had to clone it instead of inherit it.
+ * The original SparkFilter has private properties so I had to clone it instead of inherit it.
  * This filter works with a SparkGuiceApplication instance.
  */
 public class SparkGuiceFilter implements Filter {
