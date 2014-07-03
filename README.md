@@ -1,4 +1,4 @@
 spark-guice
 ===========
 
-Guice integration for https://github.com/perwendel/spark
+Adds Guice integration to https://github.com/perwendel/spark

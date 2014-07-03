@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+
+target/
+bin/
+build/
+
+.settings/
+.classpath
+.project
+.gradle
+.idea
+
+# Mac
+.DS_Store
